@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1431dc1338ecbff41ae8f28dda6ed9b2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - receiveFrom: {instanceID: 0}
+  - ConnectionHoleIn: {fileID: 3302177180113069856, guid: 3417f7846dba1a749bd89bc67be0d3fe,
+      type: 3}
+  - ConnectionHoleOut: {fileID: 1436748670811508289, guid: e81fa3ca76a87084ca534ecf6eb6e94f,
+      type: 3}
+  - ConnectionHoleLaser: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

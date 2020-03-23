@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: cde96acb2df8c1147aba15888988bab8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Main_Lazer: {fileID: 4800946427783636372, guid: 1f63a441b66e4b944900b56c0fb3f7d0,
+      type: 3}
+  - White_Lazer: {instanceID: 0}
+  - Prizm_Lazer: {instanceID: 0}
+  - Connection_hole: {fileID: 6329858797115510611, guid: 24683aae4ac70c645830c2a949e55e9e,
+      type: 3}
+  - Prizm_Triangle: {instanceID: 0}
+  - Reflection_Cube: {fileID: 6337729496756087364, guid: bdc0ea9bfa9dd664e876c4b8c95d9604,
+      type: 3}
+  - Power_Cube: {fileID: 2442615680300303779, guid: 143f3a1587f33cb45995e5773392e150,
+      type: 3}
+  - Reflection_Tile: {fileID: 6337729496756087364, guid: bdc0ea9bfa9dd664e876c4b8c95d9604,
+      type: 3}
+  - Node: {fileID: 911350480759149814, guid: d87fa87f299c55645b0835e5f2f3c795, type: 3}
+  - Node_R: {instanceID: 0}
+  - Node_G: {instanceID: 0}
+  - Node_B: {instanceID: 0}
+  - Wall: {fileID: 455050761158748635, guid: 21a808f725b9b8c46910e56431e3a2c5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

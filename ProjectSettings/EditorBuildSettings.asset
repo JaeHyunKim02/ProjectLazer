@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/Test.unity
+    guid: 41c5fa796bc228e44a230f16f0a1c75c
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: f657ccb7d482b494086f4a652dcb7aee
+  - enabled: 1
+    path: Assets/Scenes/StageSelect.unity
+    guid: 497f3e0804738394d825bd3a46db8a66
+  - enabled: 1
+    path: Assets/Scenes/InGame.unity
+    guid: f3b76e97edf86a94ab6d928b35b9628d
+  - enabled: 1
+    path: Assets/Scenes/Stage/World1/1. Hello World.unity
+    guid: 0b4a99adc9e35c64e899407554621a8e
+  - enabled: 1
+    path: Assets/Scenes/Stage/World1/2. Use Your Opportunity.unity
+    guid: 9be6275c09283854caeb7cfc4bf9f840
+  - enabled: 1
+    path: Assets/Scenes/Stage/World1/3. Two Times.unity
+    guid: 17756dec8893ed842a4f6b75f2aa387a
+  - enabled: 1
+    path: Assets/Scenes/Stage/World1/4. Reflect.unity
+    guid: c4752c06ab695074986dd8fd6de55ab8
+  m_configObjects: {}
